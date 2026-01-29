@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jose Spezzini
 
-<!--
-**jose-spezzini/jose-spezzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer & Business Intelligence Consultant  
+Specialized in Analytics, Automation, Python, Power BI & Cloud Data Platforms  
 
-Here are some ideas to get you started:
+##  What I Do
+- Build scalable data pipelines and ETL processes
+- Design executive dashboards for finance and sales
+- Forecast demand and business KPIs using Python & ML
+- Automate reporting workflows for companies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tech Stack
+- Python, SQL, PySpark, Databricks  
+- Power BI, Azure, Google Sheets Automation  
+- Git, GitHub, CI/CD  
+- Cloud Data Architecture  
+
+##  Featured Projects
+- **Sales Forecasting System (Python + Power BI)**
+- **Financial BI SaaS Dashboard Demo**
+- **Automated ETL Pipeline for Business Reporting**
+
+##  Contact
+- LinkedIn: https://www.linkedin.com/in/jose-spezzini/ 
+- Email: jspezzini@gmail.com 
+
